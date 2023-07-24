@@ -1,0 +1,15 @@
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\obj\Debug\NT106_Project.csproj.AssemblyReference.cache
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\obj\Debug\NT106_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\obj\Debug\NT106_Project.Properties.Resources.resources
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\obj\Debug\NT106_Project.csproj.GenerateResource.cache
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\obj\Debug\NT106_Project.csproj.CoreCompileInputs.cache
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\bin\Debug\NT106_Project.exe.config
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\bin\Debug\NT106_Project.exe
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\bin\Debug\NT106_Project.pdb
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\bin\Debug\KAutoHelper.dll
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\obj\Debug\NT106_Project.csproj.CopyComplete
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\obj\Debug\NT106_Project.exe
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\obj\Debug\NT106_Project.pdb
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\obj\Debug\NT106_Project.Form1.resources
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\obj\Debug\NT106_Project.DisplayScreen.resources
+C:\Users\AN515-55\source\repos\NT106_Project\NT106_Project\obj\Debug\NT106_Project.ChatForm.resources
